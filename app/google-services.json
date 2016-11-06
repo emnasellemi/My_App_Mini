@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536743576395",
+    "firebase_url": "https://miniprojet-f37f4.firebaseio.com",
+    "project_id": "miniprojet-f37f4",
+    "storage_bucket": "miniprojet-f37f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536743576395:android:57eea747157acc4e",
+        "android_client_info": {
+          "package_name": "com.example.sellemi.my_app_mini"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536743576395-dvnn1noiq7usknpcsttj0ibcmphrdeja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellemi.my_app_mini",
+            "certificate_hash": "DAE64EBD54D60E9CEBC84EB6AE1B76387220CECF"
+          }
+        },
+        {
+          "client_id": "536743576395-bbe702ap2fjv9jq1fcfeqo8t9tpfkj74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBznt64IPTBgwxFFW3QO46nH4jJSzgVz7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536743576395-bbe702ap2fjv9jq1fcfeqo8t9tpfkj74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
